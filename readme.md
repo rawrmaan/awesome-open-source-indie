@@ -11,6 +11,7 @@ Contributions are more than welcome.
 * [Caprine](https://github.com/sindresorhus/caprine) • [https://sindresorhus.com/caprine/](https://sindresorhus.com/caprine/) • Elegant Facebook Messenger desktop app. (JavaScript)
 * [Circular](https://github.com/julien-c/Circular) • [http://circular.io/](http://circular.io/) • An open source Buffer clone. (PHP, JavaScript)
 * [Formspree](https://github.com/formspree/formspree) • [https://formspree.io/](https://formspree.io/) • Easy HTML forms without PHP or JavaScript. (Python, JavaScript)
+* [Glim](https://github.com/NeoPanic/Glim) • [Downloads](https://github.com/NeoPanic/Glim/releases/latest) • macOS file viewer for Markdown, PDFs, source code, and data files. (Rust, Swift)
 * [Helpy](https://github.com/helpyio/helpy) • [https://helpy.io](https://helpy.io) • Helpy is a modern, "mobile-first" helpdesk application. (Ruby)
 * [Journmail](https://github.com/shime/journmail) • [https://journmail.com](https://journmail.com) • Teach yourself consistency by writing one sentence per day. (Ruby)
 * [Kap](https://github.com/wulkano/kap) • [https://getkap.co/](https://getkap.co/) • An open-source screen recorder built with web technology. (JavaScript)
